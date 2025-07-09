@@ -1,6 +1,6 @@
 # 🧠 Emotion Classifier – Social Media Usage
 
-This is a ensemble learning-powered web application that predicts the **dominant emotion** expressed by a user on social media based on their daily usage patterns. The app is built using **Streamlit** and powered by an ensemble ML model trained on a custom dataset.
+This is a machine learning-powered web application that predicts the **dominant emotion** expressed by a user on social media based on their daily usage patterns. The app is built using **Streamlit** and powered by an ensemble ML model trained on a custom dataset.
 
 
 🌐 **Live App:** [https://emotion-classifier-ensemble.streamlit.app/](https://emotion-classifier-ensemble.streamlit.app/)
