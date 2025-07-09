@@ -4,7 +4,7 @@ This project is a web-based application that predicts the **dominant emotion** e
 
 ---
 
-🌐 **Live App:** [https://sentientml-classifier.onrender.com/gradio/](https://sentientml-classifier.onrender.com/gradio/)
+🌐 **Live App:** [https://emotion-classifier-ensemble.streamlit.app/](https://emotion-classifier-ensemble.streamlit.app/)
 
 
 ## Features
